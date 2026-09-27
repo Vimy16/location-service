@@ -19,5 +19,5 @@ app.UseHttpsRedirection();
 app.UseAuthorization();
 
 app.MapControllers();
-//comment test protected branch
+
 app.Run();
